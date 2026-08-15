@@ -123,5 +123,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786788319.661068,
+    "completed_at": 1786788320.972118,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
   }
 ]
